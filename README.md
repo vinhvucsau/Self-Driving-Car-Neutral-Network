@@ -40,9 +40,17 @@
         <li><a href="#hardware">Hardware</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#step1-dataCollection">Step1 DataCollection</a></li>
+        <li><a href="#step2-LabelData">Step2 LabelData</a></li>
+        <li><a href="#step3-training">Step3 Training</a></li>
+      </ul>
+    </li>
+
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#reference-documents">Reference documents</a></li>
   </ol>
 </details>
 
@@ -50,7 +58,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-### This project uses the deep learning convolutional neural network <b>U-Net-LSTM</b> to help cars recognize their lane along with <b>YOLOv8</b> to identify signs and vehicle owners.
+### This project uses the deep learning convolutional neural network <b>U-Net-LSTM</b> to help cars recognize their lane along with <b>YOLOv8</b> to identify signs and vehicle owners.By using Unet-lstm, the car can identify and draw lanes accurately in up to 96% of labeled images. Something that image processing is almost impossible to do, especially with images with many curves. With this method, vehicles can even drive on lanes without lane markings as long as they are clearly labeled.
+<div  >
+  <img   src="https://i.imgur.com/XvwQgE8.png" width="900"/><br>
+</div>
 
 ## Built With
 
@@ -92,16 +103,14 @@
 
 ### Step1 DataCollection
 * Run main.py to collect lane data as seen by the vehicle through the camera. Below is a link to the dataset used in the project
-<br>
 * Lane data: <a href="https://drive.google.com/file/d/1GKYfGK38hvXVCX6oazzpI21_XqZrIMYk/view?usp=sharing">Link</a> 
 
 ### Step2 LabelData
 * Run main.py to label the newly collected data
-<br>
 * Watch the <a href="https://www.youtube.com/watch?v=wuZtUMEiKWY">video</a> to label data and training an object recognition model using yolov8
-<br>
 * My sign recognition dataset: <a href="https://universe.roboflow.com/object-detection-9zsot/detect-traffic-sign-3or9q">Link </a>
 
 ### Step3 Training
-
+* Run train.py with your new dataset
+* If you don't have dataset
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
