@@ -39,20 +39,26 @@
 
 ### Hardware
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+<table>
+<!-- row 2 -->
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/pNezTwx.png"  width="450" height= "450"/><br>
+      <code> Raspberry pi zero 2 w</code>
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/zIRz3nN.png" alt="gradient-markdown-logo" width="450" height= "450"/><br>
+      <code> Camera 5MP v1.3cho Raspberry Pi</code>
+    </td>
+  </tr>
+  <!-- row 1 -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://i.imgur.com/4OPxFpN.jpeg" alt="default-header" width="900"/><br>
+      <code> Other </code>
+    </td>
+  </tr>
+  
+</table
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
