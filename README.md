@@ -5,18 +5,18 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/jLlW6VD.png" width="400" height="1000" /><br>
+      <img src="https://i.imgur.com/jLlW6VD.png" width="350" height="900" /><br>
       <code>Detect traffic signs</code>
     </td>
     <td  align="center">
-      <img src="https://i.makeagif.com/media/6-12-2024/ZozFrM.gif" alt="GIF Image" class="gif-image" width="500">
+      <img src="https://i.makeagif.com/media/6-12-2024/ZozFrM.gif" alt="GIF Image" class="gif-image" width="450">
       <br>
       <code>Run</code>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://i.makeagif.com/media/6-12-2024/Ypqbhc.gif" width="900"  /><br>
+      <img src="https://i.makeagif.com/media/6-12-2024/Ypqbhc.gif" width="800"  /><br>
       <code>Obstacle</code>
     </td>
     
