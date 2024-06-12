@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/jLlW6VD.png" width="450" height="1000" /><br>
+      <img src="https://i.imgur.com/jLlW6VD.png" width="400" height="1000" /><br>
       <code>Detect traffic signs</code>
     </td>
     <td  align="center">
-      <img src="https://i.makeagif.com/media/6-12-2024/ZozFrM.gif" alt="GIF Image" class="gif-image" width="550">
+      <img src="https://i.makeagif.com/media/6-12-2024/ZozFrM.gif" alt="GIF Image" class="gif-image" width="500">
       <br>
       <code>Run</code>
     </td>
