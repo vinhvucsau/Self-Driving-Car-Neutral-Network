@@ -9,7 +9,7 @@
       <code>Detect traffic signs</code>
     </td>
     <td  align="center">
-      <img src="https://i.makeagif.com/media/6-12-2024/ZozFrM.gif" alt="GIF Image" class="gif-image" width="450">
+      <img src="https://i.makeagif.com/media/6-12-2024/53seC4.gif" alt="GIF Image" class="gif-image" width="450">
       <br>
       <code>Run</code>
     </td>
@@ -48,7 +48,6 @@
         <li><a href="#step3-training">Step3 Training</a></li>
       </ul>
     </li>
-
     <li><a href="#contact">Contact</a></li>
     <li><a href="#reference-documents">Reference documents</a></li>
   </ol>
@@ -58,7 +57,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-### This project uses the deep learning convolutional neural network <b>U-Net-LSTM</b> to help cars recognize their lane along with <b>YOLOv8</b> to identify signs and vehicle owners.By using Unet-lstm, the car can identify and draw lanes accurately in up to 96% of labeled images. Something that image processing is almost impossible to do, especially with images with many curves. With this method, vehicles can even drive on lanes without lane markings as long as they are clearly labeled.
+This project uses the deep learning convolutional neural network <b>U-Net-LSTM</b> to help cars recognize their lane along with <b>YOLOv8</b> to identify signs and vehicle owners.By using <b>U-Net-LSTM</b> the car can identify and draw lanes accurately in up to 96% of labeled images. Something that image processing is almost impossible to do, especially with images with many curves. With this method, vehicles can even drive on lanes without lane markings as long as they are clearly labeled.
 <div  >
   <img   src="https://i.imgur.com/XvwQgE8.png" width="900"/><br>
 </div>
@@ -108,9 +107,18 @@
 ### Step2 LabelData
 * Run main.py to label the newly collected data
 * Watch the <a href="https://www.youtube.com/watch?v=wuZtUMEiKWY">video</a> to label data and training an object recognition model using yolov8
-* My sign recognition dataset: <a href="https://universe.roboflow.com/object-detection-9zsot/detect-traffic-sign-3or9q">Link </a>
+* My traffic sign dataset: <a href="https://universe.roboflow.com/object-detection-9zsot/detect-traffic-sign-3or9q">Link </a>
 
 ### Step3 Training
 * Run train.py with your new dataset
-* If you don't have dataset
+* You can use my dataset by downloading <a href="https://drive.google.com/file/d/18v-cEUSF5dV9o1QiKWcoKiYGNQdjvOPW/view?usp=drive_link">here </a> and replace folder with the same name
+### Step4 Predict
+* Run predict.py to see how the model can recognize the lane
+* Run server.py in your laptop 
+* Run client.py in CodeInCar dicrectory
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Reference documents
+Sincere thanks to the team who wrote this <a href="https://arxiv.org/pdf/1903.02193">paper </a>. This research has been very helpful in creating this project
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
