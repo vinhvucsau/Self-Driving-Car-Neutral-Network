@@ -62,3 +62,21 @@
 </table
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage
+
+### Step1 DataCollection
+* Run main.py to collect lane data as seen by the vehicle through the camera. Below is a link to the dataset used in the project
+<br>
+* Lane data: <a href="https://drive.google.com/file/d/1GKYfGK38hvXVCX6oazzpI21_XqZrIMYk/view?usp=sharing">Link</a> 
+
+### Step2 LabelData
+* Run main.py to label the newly collected data
+<br>
+* Watch the <a href="https://www.youtube.com/watch?v=wuZtUMEiKWY">video</a> to label data and training an object recognition model using yolov8
+<br>
+* My sign recognition dataset: <a href="https://universe.roboflow.com/object-detection-9zsot/detect-traffic-sign-3or9q">Link </a>
+
+### Step3 Training
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
