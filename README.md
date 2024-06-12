@@ -9,14 +9,14 @@
       <code>Detect traffic signs</code>
     </td>
     <td  align="center">
-      <img src="https://i.makeagif.com/media/6-12-2024/ZozFrM.gif" alt="GIF Image" class="gif-image" width="600">
+      <img src="https://i.makeagif.com/media/6-12-2024/ZozFrM.gif" alt="GIF Image" class="gif-image" width="550">
       <br>
       <code>Run</code>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://i.makeagif.com/media/6-12-2024/Ypqbhc.gif" width="1000" height="400" /><br>
+      <img src="https://i.makeagif.com/media/6-12-2024/Ypqbhc.gif" width="900"  /><br>
       <code>Obstacle</code>
     </td>
     
