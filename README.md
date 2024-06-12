@@ -48,7 +48,6 @@
         <li><a href="#step3-training">Step3 Training</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#reference-documents">Reference documents</a></li>
   </ol>
 </details>
