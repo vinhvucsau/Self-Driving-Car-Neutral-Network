@@ -1,7 +1,9 @@
 # Self-Driving-Car-Neutral-Network
+<a name="readme-top"></a>
+
 ## Demo 
 <details>
-  <summary>Details</summary>
+  <summary>View here</summary>
 <table>
   <tr>
     <td align="center">
