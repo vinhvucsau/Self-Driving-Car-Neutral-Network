@@ -1,0 +1,12 @@
+blynklib==0.2.6
+certifi==2024.6.2
+charset-normalizer==2.0.12
+docopt==0.6.2
+idna==3.7
+numpy==1.19.5
+pipreqs==0.4.11
+requests==2.27.1
+scipy==1.5.4
+UNKNOWN @ git+https://github.com/ultralytics/ultralytics.git@b87ea6ab221ef1e7f7440fe47c6f924a7fce2862
+urllib3==1.26.18
+yarg==0.1.9
